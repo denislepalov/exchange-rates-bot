@@ -1,0 +1,7 @@
+    ext {
+        verions = [
+                'telegram': '6.7.0',
+                'okhttp': '4.10.0',
+                'gson': '2.10.1'
+        ]
+    }
